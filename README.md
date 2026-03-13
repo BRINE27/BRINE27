@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Brine</strong>
+  Hi, I'm <strong>BRINE</strong>
 </h1>
 
 <h3>Unity Game Developer | 2D/3D • Mobile • Puzzle • Animation</h3>

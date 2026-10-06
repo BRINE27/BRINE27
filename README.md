@@ -1,149 +1,132 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+Create a premium, modern, highly aesthetic GitHub Profile README for me as a professional Unity Game Developer.
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>BRINE</strong>
-</h1>
+My profile:
+- Name: BRINE
+- Role: Unity 2D/3D Game Developer
+- Main language: C#
+- Engine: Unity
+- Platform: Android / WebGL / PC
+- Experience: Game development, mobile games and multiplayer games
 
-<h3>Unity Game Developer | 2D/3D • Mobile • Puzzle • Animation</h3>
+Design requirements:
+- Make the GitHub profile look like a premium developer portfolio, not a basic README.
+- Use a dark, elegant, minimal UI with subtle gradients, glassmorphism and futuristic game-development aesthetics.
+- Make it visually impressive while keeping it professional.
+- Use clean HTML + Markdown that works correctly on GitHub.
+- Make the README responsive as much as GitHub Markdown allows.
+- Avoid excessive emojis.
+- Use badges only where they improve the design.
+- Add subtle animated GIFs or GitHub-supported visuals only when appropriate.
+- Do NOT make it look AI-generated.
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <p>
-    I build games in Unity — 2D/3D mobile titles with a focus on tight gameplay mechanics, smooth animations, and satisfying progression systems.<br/>
-    Currently working as an <strong>Associate Game Developer & Trainer at Infocom Software</strong>, where I own the full animation layer for a solitaire mobile game and mentor junior devs.<br/>
-    Shipped puzzle platformers and endless runners, and I'm always chasing that perfect game feel.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/📍_Alappuzha,_Kerala,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:brinedas17@gmail.com"><img src="https://img.shields.io/badge/📧_brinedas17@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🕹️_Open_to_Unity_Roles-1e1e2e?style=for-the-badge" />
-  </p>
+Structure:
 
-  <h3>🌐 Socials</h3>
-  <p align="left">
-    <a href="https://br1ne.itch.io">
-      <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-    </a>
-    <a href="https://github.com/BRINE27">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/brine-das">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-</div>
+1. HERO SECTION
+- Large "BRINE" heading
+- "Unity Game Developer" subtitle
+- Short professional introduction
+- Add a premium developer/game-development visual
+- Social/contact buttons
 
-<br clear="all" />
+2. ABOUT ME
+- Short introduction about my game-development background
+- Focus on Unity, C#, gameplay programming and optimization.
 
----
+3. TECH STACK
+Create an attractive icon-based technology section:
+- Unity
+- C#
+- Git
+- GitHub
+- Photon Fusion
+- Netcode for GameObjects
+- REST APIs
+- JSON / Newtonsoft JSON
+- DOTween
+- ScriptableObjects
+- Animator / Timeline
+- Unity UI
+- Android
+- WebGL
 
-## 💼 Experience
+4. GAME DEVELOPMENT SKILLS
+Show:
+- 2D & 3D Game Development
+- Gameplay Programming
+- Multiplayer Networking
+- UI Systems
+- Animation Systems
+- AI
+- Performance Optimization
+- Object Pooling
+- Mobile Optimization
+- Ads / IAP
+- Firebase
+- Game Physics
 
-**Associate Game Developer & Trainer** — *Infocom Software Pvt. Ltd* | Nov 2025 – Present
+5. FEATURED PROJECTS
+Create premium project cards for my games.
+Each card should contain:
+- Project name
+- Short description
+- Technologies used
+- Key features
+- GitHub/demo link placeholder
 
-- Developed and maintained 2D/3D games in Unity & C#
-- Built and owned the full animation layer for a solitaire mobile game, from prototype to playtest
-- Mentored junior Unity developers, improving code quality and architectural consistency
-- Improved runtime performance using object pooling and optimized update cycles
-- Conducted a technical Unity workshop at MES College of Engineering & Technology
-- Shipped features in an agile team, tuning gameplay based on playtest feedback
+Include examples such as:
+- Tank War Multiplayer
+- Truck Driver / Truck Driving Game
+- FreeCell / Solitaire
+- Meccha Chameleon
+- Endless Runner projects
 
----
+6. GITHUB STATS
+Create a clean dark-themed GitHub statistics section:
+- GitHub stats
+- Top languages
+- Contribution streak
+Keep it visually consistent.
 
-## 🎮 Projects
+7. CURRENTLY WORKING ON
+Show a stylish section for:
+- Unity game development
+- Multiplayer systems
+- Mobile optimization
+- New gameplay systems
 
-<table>
-<tr>
-<td width="50%" align="center">
+8. CONTACT
+Create clean buttons for:
+- GitHub
+- LinkedIn
+- Email
+- Portfolio
 
-### Crashy Cat – Mobile Puzzle Platformer
-*Unity • C#*
+IMPORTANT:
+- Generate the COMPLETE README.md.
+- Make all HTML/Markdown valid for GitHub.
+- Do not give me an explanation first.
+- Give me a single copy-paste-ready README.md.
+- Use placeholders where my actual links/usernames are unknown.
+- Make the overall result look like a premium developer portfolio similar to high-end GitHub profiles seen on modern developer portfolios.
 
-Platform destruction, ordered progression, trap-based fail states, star collection (0–3 per level), persistent progress via PlayerPrefs. Includes character selection, level select UI, pause menu, moving platforms, particle VFX, and a global audio manager.
+VISUAL DIRECTION:
 
-</td>
-<td width="50%" align="center">
+Take inspiration from premium modern developer portfolios:
+- Black/dark background
+- Large cinematic hero section
+- Glassmorphism cards
+- Thin borders
+- Soft glow effects
+- Large typography
+- Minimal white/gray text
+- Professional purple/blue accent lighting
+- MacOS-style code/terminal cards
+- Developer dashboard aesthetic
+- Project screenshots displayed inside browser/device mockups
+- Use generous spacing and strong visual hierarchy
 
-### Zig-Zag Endless Runner 3D
-*Unity • C#*
+The profile should feel like:
+"AAA game developer portfolio + modern GitHub profile + futuristic developer dashboard."
 
-One-tap procedurally generated endless runner. Object pooling for performance, score/high-score system with PlayerPrefs, TextMeshPro UI with color-changing elements, and full audio integration.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎮 Game Dev
-<img src="https://skillicons.dev/icons?i=unity,cs" />
-<br/><br/>
-<p>Unity 2D/3D • C# • Mobile • Puzzle Games • Animation & Timeline • DOTween • Physics Systems • Particle VFX</p>
-
-</td>
-<td width="50%" align="center">
-
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=cs" />
-<br/><br/>
-<p>OOP • Data Structures • ScriptableObjects • Coroutines • AI Systems (Minimax, Heuristic) • Multiplayer Networking (Netcode) • REST API (Newtonsoft JSON)</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" />
-<br/><br/>
-<p>Git & GitHub • Object Pooling & Performance Optimization</p>
-
-</td>
-<td width="50%" align="center">
-
-### 📦 Platforms
-<img src="https://skillicons.dev/icons?i=github,firebase" />
-<br/>
-<p>WebGL • itch.io • Android</p>
-
-</td>
-</tr>
-</table>
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **Bachelor of Business Administration (Management)** — Pondicherry University | 2023–2026
-- 🕹️ **Diploma in Unity Game Development** — Big Boy School of Gaming, Kochi | Nov 2023 – Apr 2024
-  - Hands-on training in Unity 2D, Unity 3D, and C# across intensive months of practical game development
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=BRINE27&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BRINE27&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+Do NOT create a generic GitHub README with simple headings and lists.
+The visual presentation is extremely important.
